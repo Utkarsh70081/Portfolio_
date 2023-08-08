@@ -906,7 +906,7 @@ footer a{
     }
     .nav-close-btn{
         position: absolute;
-        background: url(/images/cross.png)no-repeat;
+        background: url(images/cross.png)no-repeat;
         filter: var(--color-filter);
         background-size: 12px;
         background-position: center;
@@ -919,7 +919,7 @@ footer a{
 
     }
     .nav-menu-btn{
-        background: url(/images/burger.png)no-repeat;
+        background: url(images/burger.png)no-repeat;
         filter: var(--color-filter);
         background-size: 30px;
         background-position: center;
